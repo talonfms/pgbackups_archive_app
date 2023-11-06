@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is PUBLIC. Do not include any sensitive information in README, code or issues.
+
 # PGBackups Archive App
 
 A very simple app to archive PGBackups to S3.
